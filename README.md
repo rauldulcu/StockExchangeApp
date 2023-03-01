@@ -5,7 +5,7 @@ By running 'StockMarketJFrame.java', we open this window:
 Here, we have multiple tabs.The first one is 'Market', as we can see in the picture above.It contains all the available stocks.
 In the 'Portfolio' tab we will be able to see all the stocks we have in posession.More on that later.
 Now, the 'Buy' tab, as the name suggests, is for buying stocks.Here we can also see our available funds:
-![image](https://user-images.githubusercontent.com/99651712/222293224-b1459d93-0283-49c0-a654-bec83c54e493.png)
+![image](https://user-images.githubusercontent.com/99651712/222294159-abd81aa2-5074-4edd-aff4-e43b5b76898c.png)
 We select the stock next to 'Symbol', we input the quantity and then we click 'Buy'.We can see that our funds decreased:
 ![image](https://user-images.githubusercontent.com/99651712/222293766-e909315f-f207-42e7-909b-42a278e7b23e.png)
 Now, if we go back to 'Portfolio':
