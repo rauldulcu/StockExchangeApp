@@ -29,4 +29,12 @@ As for the 'myAccount' tab, it is a WIP
 
 ![image](https://user-images.githubusercontent.com/99651712/222294020-06fb7ab9-1699-452a-87e5-aca57e831cb7.png)
 
+The app also has multiple error messages in case the user does not know how to use some of its functionalities, for example:
+
+![image](https://user-images.githubusercontent.com/99651712/222294730-f2cc670e-d737-4f9c-9dd6-c4f0dadfd021.png)[-;p\7/=
+![image](https://user-images.githubusercontent.com/99651712/222294825-cc7a0e4a-c37e-4649-a187-6569cc012a1f.png)
+![image](https://user-images.githubusercontent.com/99651712/222295007-7bb0dded-357d-40b3-ab2e-4c9d4dd161b4.png)
+![image](https://user-images.githubusercontent.com/99651712/222295033-13a336b2-502d-486d-8a4c-099de07829f2.png)
+
+
 
